@@ -22,8 +22,7 @@ Welcome to Datatools!
    :description lang=en: Readme datatools.
 
 :abstract:
-    Package contains functions that help prepare dataframes, and can eb reutilized from project to project.
+    Package contains functions that help prepare dataframes, and can be
+    reutilized from project to project.
 
 -------
-
-
