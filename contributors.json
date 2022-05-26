@@ -1,0 +1,17 @@
+[
+  {
+    "id" : "9f4cfd60-317c-4071-bdec-2bdb785ea7dd",
+    "remoteIds" : [
+      {
+        "id" : "ingwersen-erik",
+        "url" : "github.com",
+        "provider" : "GitHub"
+      }
+    ],
+    "name" : "Ingwersen_erik",
+    "avatarUrl" : "https://avatars.githubusercontent.com/u/78963102?u=a7ac945d357e0cda1649d7836170898945f61440&v=4",
+    "altName" : "ingwersen-erik",
+    "email" : null,
+    "updatedAt" : "2022-05-26T09:29:56.050632-03:00"
+  }
+]
